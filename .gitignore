@@ -5,3 +5,4 @@ initf
 dist
 branch_link.egg-info
 test.py
+setup.py
